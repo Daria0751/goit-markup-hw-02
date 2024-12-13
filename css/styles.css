@@ -85,12 +85,12 @@ font-weight: 400;
 
 .title{
     font-weight: 700;
-        font-size: 56px;
-        line-height: 1.07;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #ffffff;
-        background-color: #2E2F42;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff;
+    background-color: #2E2F42;
 }
 /* #endregion */
 
@@ -99,8 +99,9 @@ font-weight: 400;
 }
 
 .btn{
-    font-family: "Roboto", sans-serif;
+font-family: "Roboto", sans-serif;
 background-color: #4D5AE5;
+font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
@@ -111,10 +112,10 @@ color: #ffffff;
     background-color: #404BBF;
 }
 
-.title-two{
-    font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
+.title-four{
+font-weight: 500;
+font-size: 36px;
+line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
