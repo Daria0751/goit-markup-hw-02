@@ -78,12 +78,9 @@ font-weight: 400;
     color: #434455;
 }
 
-.header-address:hover{
-    color: #404bbf;
-}
-
-.header-address:focus{
-    color: #404bbf;
+.head-address:hover,
+.head-address:focus{
+    color: #404BBF;
 }
 
 
